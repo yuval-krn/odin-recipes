@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+    background-color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    color: blue;
+    font-size: 14px;
+    font-family: monospace;
+}
